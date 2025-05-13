@@ -3,7 +3,9 @@
 Code to reproduce the analysis and the figures for the paper "Epidemiology of the Great Fear of 1789 in France" by S. Zapperi et al. (submitted)
 
 Intstructions: 
-The code is included in two jupyther notebook running python3.9. Dowload the code and load it within jupyter. The Data folder should be populated with SI datafiles.
+The code is included in two jupyther notebook running python3.9.
+Dowload the code and load it within jupyter. 
+The Data folder should be populated with datafiles from https://dataverse.unimi.it/dataverse/great-fear
 
 Package required:
 
