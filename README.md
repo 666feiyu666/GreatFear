@@ -5,7 +5,7 @@ Code to reproduce the analysis and the figures for the paper "Epidemiology of th
 Intstructions: 
 The code is included in two jupyther notebook running python3.9.
 Dowload the code and load it within jupyter. 
-The Data folder should be populated with datafiles from https://dataverse.unimi.it/dataverse/great-fear
+The Data folder should be populated with datafiles from https://dataverse.unimi.it
 
 Package required:
 
