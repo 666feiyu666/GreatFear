@@ -6,6 +6,7 @@ Intstructions:
 The code is included in two jupyther notebook running python3.9.
 Dowload the code and load it within jupyter. 
 The Data folder should be populated with datafiles from https://dataverse.unimi.it
+and with the file Post_Roads.gpkg that can be downloaded fro https://zenodo.org/records/11196161
 
 Package required:
 
